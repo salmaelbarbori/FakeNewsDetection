@@ -1,7 +1,7 @@
 # FakeNewsDetection
 This project aims to classify news based on a data cllected from FactCheck.org to see if it is real news or fake ones.
 
-
+[image](https://github.com/salmaelbarbori/FakeNewsDetection/blob/main/20230522_220143_0000.png)
 
 
 
