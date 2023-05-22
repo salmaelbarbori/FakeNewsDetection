@@ -22,4 +22,4 @@ since she is an aspiring data scientist and she is trying to aquire new skills i
 
 
 ---
-##Project gooals 
+## Project goals 
