@@ -31,3 +31,8 @@ Here is the link to the dataset: https://github.com/salmaelbarbori/FakeNewsDetec
 
 ---
 ## Pre-processing
+---
+from nltk.tokenize import word_tokenize
+
+
+---
