@@ -1,6 +1,4 @@
 # FakeNewsDetection
-This project aims to classify news based on a data cllected from FactCheck.org to see if it is real news or fake ones.
-
 ![alt_text](https://github.com/salmaelbarbori/FakeNewsDetection/blob/main/20230522_220143_0000.png?raw=true)
 
 
@@ -22,4 +20,11 @@ since she is an aspiring data scientist and she is trying to aquire new skills i
 
 
 ---
-## Project goals 
+## Project goals
+This project aims to classify news in one of the cotegories real news or fake ones.
+
+---
+## Dataset
+I scrapped my dataset from the website : PoliticFact.
+My dataset contains more than 23 000 rows.
+
