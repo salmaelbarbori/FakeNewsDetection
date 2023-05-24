@@ -24,6 +24,9 @@ since she is an aspiring data scientist and she is trying to aquire new skills i
 This project aims to classify news in one of the cotegories real news or fake ones.
 
 ---
+## Pipeline
+![alt text](https://github.com/salmaelbarbori/FakeNewsDetection/blob/main/Pipeline_png.png)
+---
 ## Dataset
 I scrapped my dataset from the website : PoliticFact.
 My dataset contains more than 23 000 rows.
