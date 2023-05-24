@@ -39,4 +39,10 @@ Here is the link to the dataset: https://github.com/salmaelbarbori/FakeNewsDetec
 from nltk.tokenize import word_tokenize
 
 ```
+---
+## Vectorization
+```python
+
+```
+---
 
