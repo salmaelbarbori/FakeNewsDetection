@@ -29,6 +29,6 @@ from nltk.tokenize import word_tokenize
 ## Machine learning
 Classification algorithm
 ```python
-from sklearn import classification
+from sklearn.naive_bayes import GaussianNB
 ```
 ---
