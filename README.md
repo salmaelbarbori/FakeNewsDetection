@@ -27,8 +27,15 @@ from nltk.tokenize import word_tokenize
 ```
 ---
 ## Machine learning
-Classification algorithm
+Classification algorithms: 
+I tested two algorithms the first one is 
+### Decision Tree Algorithm
 ```python
-from sklearn.naive_bayes import GaussianNB
+from sklearn.tree import DecisionTreeClassifier
+```
+The second one is 
+### Naive Bayes Classifier
+```python
+from sklearn.tree import DecisionTreeClassifier
 ```
 ---
