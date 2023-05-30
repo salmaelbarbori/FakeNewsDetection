@@ -19,14 +19,33 @@ Here is the link to the dataset: https://github.com/salmaelbarbori/FakeNewsDetec
 ---
 ## Pre-processing
 ```python
-from nltk.tokenize import word_tokenize
+import nltk
+```
+### Removing punctuation, symbols and numbers
+```python
+```
+### Tokenization
+```python
+from nltk.tokenize import RegexpTokenizer
+```
+### Removing StopWords
+```python
+from nltk.corpus import stopwords
+```
+### Lemmatizing
+```python
+from nltk.stem import WordNetLemmatizer,PorterStemmer
 ```
 ---
 ## Vectorization
 ```python
+from sklearn.feature_extraction.text import CountVectorizer
 ```
 ---
 ## Machine learning
+### Spliting data by two(Training/Evaluation)
+
+### Algorithms
 Classification algorithms: 
 I tested two algorithms the first one is 
 ### Decision Tree Algorithm
