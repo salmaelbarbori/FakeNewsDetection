@@ -23,6 +23,8 @@ import nltk
 ```
 ### Removing punctuation, symbols and numbers
 ```python
+import re
+r'[^a-zA-z0-9.,!?/:;\"\'\s]' 
 ```
 ### Tokenization
 ```python
@@ -44,16 +46,18 @@ from sklearn.feature_extraction.text import CountVectorizer
 ---
 ## Machine learning
 ### Spliting data by two(Training/Evaluation)
-
+```python
+from sklearn.model_selection import train_test_split
+```
 ### Algorithms
 Classification algorithms: 
 I tested two algorithms the first one is 
-### Decision Tree Algorithm
+#### Decision Tree Algorithm
 ```python
 from sklearn.tree import DecisionTreeClassifier
 ```
 The second one is 
-### Naive Bayes Classifier
+#### Naive Bayes Classifier
 ```python
 from sklearn.tree import DecisionTreeClassifier
 ```
