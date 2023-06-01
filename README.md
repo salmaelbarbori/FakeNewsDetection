@@ -62,3 +62,9 @@ The second one is
 from sklearn.tree import DecisionTreeClassifier
 ```
 ---
+## Evaluation
+```python
+#Confusion matrix
+from sklearn import metrics
+cm = metrics.confusion_matrix(y_test, model.predict(x_test))
+```
