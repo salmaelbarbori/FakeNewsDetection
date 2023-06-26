@@ -29,8 +29,7 @@ This project aims to classify news in one of the cotegories real news or fake on
 
 I scrapped my dataset from the website : PoliticFact.
 My dataset contains more than 23 000 rows.
-Here is the link to the dataset: https://github.com/salmaelbarbori/FakeNewsDetection/blob/main/POlitical_fact_chekcer_data_set.csv
-
+Here is the link to the dataset: https://github.com/salmaelbarbori/FakeNewsDetection/blob/main/dataset/data_politicfact.csv
 ## Pre-processing
 
 ```python
